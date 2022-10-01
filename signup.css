@@ -1,0 +1,12 @@
+.login {
+    min-height: 90vh;
+    max-height: 100vh;
+}
+
+.icons {
+    margin-top: -12px;
+}
+
+input {
+    margin-top: 12px;
+}
